@@ -1,2 +1,3 @@
 # Credit-Card-Fraud-Detection-using-Logistic-Regression
 This project demonstrates a machine learning model for detecting credit card fraud using logistic regression. The dataset is highly imbalanced, with a small percentage of transactions classified as fraudulent. The model was evaluated using accuracy, confusion matrix, and classification report metrics. While the model achieves a high accuracy score of 99.91%, special attention is given to performance in detecting fraudulent transactions, where balancing techniques could further improve precision and recall.
+Link to CSV file: https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023
